@@ -1,4 +1,4 @@
-# Eye Extension
+# Eye Easer Chrome Extension
 
 **Eye Extension** is a simple Chrome extension that reminds you to take short breaks for eye relaxation using the **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds. This helps reduce digital eye strain.
 
