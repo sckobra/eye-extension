@@ -25,38 +25,15 @@ Eye-Extension/
 
 ---
 
-## 🔧 Installation
-
-1. **Clone or Download** this repository to your local machine.
-
-2. Open **Google Chrome** and go to:
-
-
-3. Enable **Developer Mode** (toggle switch in the top-right corner).
-
-4. Click **Load Unpacked** and select the folder containing the extension files.
-
----
-
 ## ▶️ Usage
 
 - After installing, the extension will:
-- Wait **5 seconds** after the page loads.
-- Show a **modal reminder** for **3 seconds**.
-- Repeat reminders every **10 seconds** (for demo; can be adjusted).
+- Show a **modal reminder** for **20 seconds**.
+- Repeat reminders every **20 minutes** 
 
 - The modal includes:
-- A motivational message.
+- A message reminding you to look 20 feet into the distance.
 - A close button (`x`) to dismiss early.
-
----
-
-## ⚙️ Permissions
-
-The extension requests:
-
-- **tabs** – To interact with the current webpage.
-- **content scripts** – To inject the reminder modal.
 
 ---
 
